@@ -9,7 +9,7 @@
 # Awesome agents paper in other fields
 1. [2024 biorxiv] **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent** [[paper]](https://arxiv.org/abs/2407.02483)
 1. [2024 biorxiv] **CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments** [[paper]](https://arxiv.org/abs/2404.18021)
-1. [2024 biorxiv] **BioInformatics Agent (BIA): Unleashing the Power of Large Language Models to Reshape Bioinformatics Workflow** [[paper]](https://drive.google.com/drive/folders/1fiW7ovr_YeBT2fnBKm_8hTknKd-YRHMO)
+1. [2024 biorxiv] **BioInformatics Agent (BIA): Unleashing the Power of Large Language Models to Reshape Bioinformatics Workflow** [[paper]](https://www.biorxiv.org/content/10.1101/2024.05.22.595240v1)
 1. [2024 biorxiv] **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents** [[paper]](https://arxiv.org/abs/2405.02957)
 1. [2024 biorxiv] **MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning** [[paper]](https://arxiv.org/abs/2311.10537)
 1. [2024 biorxiv] **BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments** [[paper]](https://arxiv.org/pdf/2405.17631)
