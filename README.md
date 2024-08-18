@@ -7,6 +7,7 @@
 
 
 # Awesome agents paper in other fields
+1. [2024 arxiv] **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery** [[paper]](https://www.arxiv.org/abs/2408.06292)
 1. [2024 biorxiv] **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent** [[paper]](https://arxiv.org/abs/2407.02483)
 1. [2024 biorxiv] **CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments** [[paper]](https://arxiv.org/abs/2404.18021)
 1. [2024 biorxiv] **BioInformatics Agent (BIA): Unleashing the Power of Large Language Models to Reshape Bioinformatics Workflow** [[paper]](https://www.biorxiv.org/content/10.1101/2024.05.22.595240v1)
