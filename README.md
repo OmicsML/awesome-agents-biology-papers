@@ -7,6 +7,7 @@
 
 
 # Awesome agents paper in other fields
+1. [2024 Nature] **A multimodal generative AI copilot for human pathology** [[paper]](https://www.nature.com/articles/s41586-024-07618-3)
 1. [2024 arxiv] **A Review of Large Language Models and Autonomous Agents in Chemistry** [[paper]](https://arxiv.org/abs/2407.01603)
 1. [2024 arxiv] **The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery** [[paper]](https://www.arxiv.org/abs/2408.06292)
 1. [2024 biorxiv] **MMedAgent: Learning to Use Medical Tools with Multi-modal Agent** [[paper]](https://arxiv.org/abs/2407.02483)
