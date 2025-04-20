@@ -1,4 +1,6 @@
 # Awesome agents paper in the single-cell field
+
+1. [2025 biorxiv] **SpatialAgent: An autonomous AI agent for spatial biology** [[paper]](https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1)
 1. [2024 Nature Methods] **Omega — harnessing the power of large language models for bioimage analysis** [[paper]](https://www.nature.com/articles/s41592-024-02310-w)
 1. [2024 Nature Methods] **BioImage.IO Chatbot: a community-driven AI assistant for integrative computational bioimaging** [[paper]](https://www.nature.com/articles/s41592-024-02370-y)
 1. [2024 biorxiv] **An AI Agent for Fully Automated Multi-omic Analyses** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.08.556814v3)
