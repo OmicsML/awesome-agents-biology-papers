@@ -19,6 +19,7 @@
 
 
 # Awesome agents paper in other fields
+1. [2025 arxiv] **TxAgent: An AI agent for therapeutic reasoning across a universe of tools** [[paper]](https://zitniklab.hms.harvard.edu/TxAgent/)
 1. [2025 arxiv] **PharmAgents: Building a Virtual Pharma with Large Language Model Agents** [[paper]](https://arxiv.org/pdf/2503.22164)
 1. [2024 Nature] **A multimodal generative AI copilot for human pathology** [[paper]](https://www.nature.com/articles/s41586-024-07618-3)
 1. [2024 arxiv] **A Review of Large Language Models and Autonomous Agents in Chemistry** [[paper]](https://arxiv.org/abs/2407.01603)
