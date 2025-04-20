@@ -1,5 +1,10 @@
-# Awesome agents paper in the single-cell field
+# AI Scientist
+1. [2025 arxiv] **Towards an AI co-scientist** [[paper]](https://arxiv.org/abs/2502.18864)
 
+
+
+
+# Awesome agents paper in the single-cell field
 1. [2025 arxiv] **BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments** [[paper]](https://arxiv.org/abs/2405.17631)
 1. [2025 biorxiv] **CompBioAgent: An LLM-powered agent for single-cell RNA-seq data exploration** [[paper]](https://www.biorxiv.org/content/10.1101/2025.03.17.643771v1)
 1. [2025 biorxiv] **Spatial transcriptomics AI agent charts hPSC-pancreas maturation in vivo** [[paper]](https://www.biorxiv.org/content/10.1101/2025.04.01.646731v1)
