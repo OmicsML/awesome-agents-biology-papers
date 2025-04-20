@@ -1,5 +1,6 @@
 # AI Scientist
 1. [2025 arxiv] **Towards an AI co-scientist** [[paper]](https://arxiv.org/abs/2502.18864)
+1. [2025 News] **Self-driving laboratories, advanced immunotherapies and five more technologies to watch in 2025** [[paper]](https://www.nature.com/articles/d41586-025-00075-6)
 
 
 
